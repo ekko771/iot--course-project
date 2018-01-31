@@ -1,1 +1,6 @@
 
+-MainActivity.java => Andriod set temperature threshold
+-database.php => data to graph.html
+-graph.html => visualize
+-set_temp.php => receive temperature threshold to database
+-temp.php => receive data to database
